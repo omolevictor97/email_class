@@ -1,3 +1,5 @@
+> To use download the file use the command ```git clone https://github.com/omolevictor97/email_class.git```
+
 > To create virual environment: python: python -m venv ```name of the environment (env)```
 To activate the environment: ```name(env)/Scripts/activate```
 
